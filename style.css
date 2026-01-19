@@ -154,6 +154,9 @@ img {
     object-fit: cover;
 }
 
+.circle-img:hover{
+    transform: scale(1.04);
+}
 .circle-mic {
     position: absolute;
     width: 80px;
@@ -171,6 +174,7 @@ img {
     font-size: 14px;
     font-weight: 700;
     z-index: 4;
+    box-shadow: 0 0 10px 5px  #01ff9e36 ;
 }
 
 

@@ -72,7 +72,7 @@ img {
 .btn-gradient {
     display: flex;
     height: 40px;
-    background: linear-gradient(60deg, #ff8c00, #ff0080, #721fa1);
+    background: linear-gradient(20deg, #ffeb0e, #ff0080, #721fa1);
     color: white;
     align-items: center;
     padding: 10px 24px;
@@ -223,7 +223,7 @@ img {
 }
 
 .btn-primary {
-    background: linear-gradient(60deg, #ff8c00, #ff0080, #481b5d);
+    background: linear-gradient(60deg, #ffb860, #ff0080, #481b5d);
     color: white;
 }
 

@@ -57,7 +57,20 @@ TechWave is a clean and visually engaging podcast website template focused on:
 ---
 
 ## Project Structure
-project-folder/ │ ├── index.html ├── style.css ├── assets/ │   ├── hero-bg.png │   ├── hero-circle.png │   ├── microphone.png │   ├── host.png │   ├── icons (spotify, youtube, etc.) │   └── other images
+project-folder/
+│
+├── index.html
+├── style.css
+└── assets/
+    ├── hero-bg.png
+    ├── hero-circle.png
+    ├── microphone.png
+    ├── host.png
+    ├── icons/
+    │   ├── spotify.png
+    │   ├── youtube.png
+    │   └── ...
+    └── other-images/
 
 ---
 

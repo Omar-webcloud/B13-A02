@@ -4,13 +4,9 @@ A modern, responsive podcast landing page built using HTML and CSS, designed to 
 
 ---
 
-## Overview
+## Live Site
 
-TechWave is a clean and visually engaging podcast website template focused on:
-- Promoting podcast episodes  
-- Building a personal brand  
-- Encouraging user subscriptions  
-- Delivering a smooth user experience across devices  
+ https://omar-webcloud.github.io/B13-A02/
 
 ---
 
